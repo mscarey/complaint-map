@@ -1,0 +1,28 @@
+Case 1:18-cv-03501 Document 1 Filed 04/20/18 Page 27 of 66
+G. Forensic Evidence Confirms Russia's Attack on the DNC's Network
+86. Both CrowdStrike's forensic analysis and the U.S. Government concluded that the
+DNC's computer systems had been hacked by two independent, sophisticated Russian state
+sponsored adversaries, both with a nexus to Russia's intelligence services.5 The forensic analysts
+tracked the hacking activities of these adversaries by assigning them code names: "Cozy Bear"
+and "Fancy Bear," which correspond to the more widely used names Advanced Persistent Threat
+29 (APT 29) and Advanced Persistent Threat 28 (APT 28), respectively.6The IC Report
+concluded that "Fancy Bear" was acting as an agent of the GRU
+87.
+Forensic analysis found evidence that Cozy Bear had infiltrated and remained
+present in the DNC's network since at least July 27, 2015. The IC Report similarly concluded that
+the Russian intelligence first gained access to the DNC network in July 2015. CrowdStrike also
+determined that Cozy Bear used the stolen credentials of user accounts to access the DNC's
+computer systems.
+88.
+CrowdStrike determined that the objective of the Cozy Bear actor was to access
+and collect information from DNC systems that were primarily used for communications. The
+analysis identified Cozy Bear malware in DNC systems providing email, email support, backup
+servers, voiceover internet protocol, and chat.
+89. The U.S. Government concluded that Cozy Bear was an operative of or associated
+with Russian intelligence.57
+0 The DNC first detected the infiltration of the GRU, or "Fancy Bear," in its network
+on April 28, 2016.
+91.
+CrowdStrike determined that the GRU's objective was to collect information about
+the DNC's political and research activities.
+23
