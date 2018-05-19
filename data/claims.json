@@ -1,0 +1,76 @@
+{"Count I": {"source_of_law":"Computer Fraud and Abuse Act",
+	"citation":"8 U.S.C. § 1030",
+	"defendants":["Russia","GRU","GRU Operative #1"]
+	},
+"Count II": {"source_of_law":"RICO",
+	"claim":"racketeering",
+	"citation":"18 U.S.C. § 1962(C)",
+	"defendants":["Russia","GRU","GRU Operative #1",
+	"Aras Agalarov","Emin Agalarov","Mifsud",
+	"WikiLeaks","Assange","the Trump Campaign",
+	"Trump, Jr.","Manafort","Stone","Kushner",
+	"Papadopoulos","Gates","Does"]	
+	},
+"Count III": {"source_of_law":"RICO",
+	"claim":"conspiracy",
+	"citation":"18 U.S.C. § 1962(D)",
+	"defendants":["Russia","GRU","GRU Operative #1",
+	"Aras Agalarov","Emin Agalarov","Mifsud",
+	"WikiLeaks","Assange","the Trump Campaign",
+	"Trump, Jr.","Manafort","Stone","Kushner",
+	"Papadopoulos","Gates","Does"]	
+	},
+"Count IV": {"source_of_law":"Wiretap Act",
+	"citation":"18 U.S.C. § 2510-2522",
+	"defendants":["GRU Operative #1",
+	"WikiLeaks","Assange","the Trump Campaign",
+	"Trump, Jr.","Manafort","Kushner"]	
+	},
+"Count V": {"source_of_law":"Stored Communications Act",
+	"citation":"18 U.S.C. § 2701-2712",
+	"defendants":["Russia","GRU","GRU Operative #1"]
+	},
+"Count VI": {"source_of_law":"Digital Millennium Copyright Act",
+	"citation":"17 U.S.C. § 1201 et seq.",
+	"defendants":["Russia","GRU","GRU Operative #1"]
+	},
+"Count VII": {"source_of_law":"Defend Trade Secrets Act",
+	"citation":"18 U.S.C. § 1836 et seq.",
+	"claim":"misappropriation of trade secrets",
+	"defendants":["Russia","GRU","GRU Operative #1",
+		"WikiLeaks","Assange"]
+	},
+"Count VIII": {"source_of_law":"WASHINGTON D.C. UNIFORM TRADE SECRETS ACT",
+	"citation":"D.C. CODE ANN §§ 36-401 - 46-410",
+	"claim":"misappropriation of trade secrets",
+	"defendants":["Russia","GRU","GRU Operative #1",
+		"Aras Agalarov","Emin Agalarov","Mifsud",
+		"WikiLeaks","Assange","the Trump Campaign",
+		"Trump, Jr.","Manafort","Stone","Kushner",
+		"Papadopoulos","Gates","Does"]
+	},
+"Count IX": {"source_of_law":"D.C. COMMON LAW",
+	"claim":"TRESPASS",
+	"defendants":["Russia","GRU","GRU Operative #1"]
+	},
+"Count X": {"source_of_law":"VIRGINIA COMMON LAW",
+	"claim":"TRESPASS TO CHATTELS",
+	"defendants":["Russia","GRU","GRU Operative #1"]
+	},
+"Count XI": {"source_of_law":"VIRGINIA COMMON LAW",
+	"claim":"CONSPIRACY TO COMMIT TRESPASS TO CHATTELS",
+	"defendants":["Russia","GRU","GRU Operative #1",
+		"Aras Agalarov","Emin Agalarov","Mifsud",
+		"WikiLeaks","Assange","the Trump Campaign",
+		"Trump, Jr.","Manafort","Stone","Kushner",
+		"Papadopoulos","Gates","Does"]
+	},
+"Count XII": {"source_of_law":"VIRGINIA COMPUTER CRIMES ACT",
+	"citation":"VA. CODE ANN. §§ 18.2-152.5 et seq.",
+	"defendants":["Russia","GRU","GRU Operative #1",
+		"Aras Agalarov","Emin Agalarov","Mifsud",
+		"WikiLeaks","Assange","the Trump Campaign",
+		"Trump, Jr.","Manafort","Stone","Kushner",
+		"Papadopoulos","Gates","Does"]
+	}
+}
