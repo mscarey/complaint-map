@@ -1,0 +1,29 @@
+Case 1:18-cv-03501 Document 1 Filed 04/20/18 Page 26 of 66
+80.
+Throughout the campaign, at least until mid-August 2016, Papadopoulos continued
+to have communications with Russian nationals, and continued to report those communications to
+Trump Campaign officials, who encouraged him to set up an off-the-record meeting with Russiarn
+officials on behalf of the campaign. In October 2017, Papadopoulos pleaded guilty to lying about
+these communications with Russian nationals.54
+81 Following their initial access, for months, Russian intelligence agencies maintained
+an unauthorized presence in DNC servers located in the United States. By May 2016, Russia had
+stolen a large amount of sensitive data from the DNC, including donor information, opposition
+research, information regarding planned political activities, and thousands of private confidential
+emails.
+F. The DNC Discovers the Hack and Hires CrowdStrike
+82.
+On April 28, 2016, DNC IT staff detected and ultimately confirmed access to the
+DNC network by unauthorized users.
+83.
+Upon discovering the intrusion, the DNC contacted CrowdStrike Services, Inc.
+("CrowdStrike"), a cybersecurity technology firm, to investigate the attack, assess the damage
+done to the DNC's computers and servers, and assist the DNC in its remediation efforts.
+84.
+CrowdStrike performed forensic analysis on the DNC's computer network and
+servers. CrowdStrike also set up a system for monitoring the ongoing attack on Plaintiffs
+computer system and to alert the DNC to future attacks.
+85.
+As a result of the persistence of the Russian state-sponsored infiltration, in order to
+remove the unauthorized users from its network, the DNC was required to decommission more
+than 140 servers, remove and reinstall all software, including the operating systems, for more than
+180 computers, and rebuild at least 11 servers.

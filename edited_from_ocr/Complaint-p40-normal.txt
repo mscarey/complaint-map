@@ -1,0 +1,26 @@
+Case 1:18-cv-03501 Document 1 Filed 04/20/18 Page 40 of 66
+investigate the hacking; and (c) retain staff and consultants to remediate the damage caused by the
+hacking's impact.
+CAUSES OF ACTION
+COUNTI
+COMPUTER FRAUD AND ABUSE ACT (18 U.S.C. § 1030(A))
+(AGAINST RUSSIA, THE GRU, AND GRU OPERATIVE #1)
+146. Plaintiff realleges and incorporates by reference all prior paragraphs of this
+Complaint and paragraphs in the counts below as though set forth fully herein.
+147. The DNC's computers are involved in interstate and foreign commerce and
+communication, and are protected computers under 18 U.S.C. 1030(e)(2).
+148.
+On information and belief, Russia, the GRU, and GRU Operative #1 knowingly
+and intentionally accessed the DNC's computers without authorization or in excess of
+authorization, and thereby obtained and used valuable information from those computers irn
+violation of 18 US.С. § 1030(a)(2)(C). Such information included, but was not limited to: private,
+politically sensitive communications between the DNC and Democratic stakeholders and
+candidates, confidential donor data; confidential campaign strategy plans; opposition and policy
+research; and documents regarding planned political events, including fundraisers and rallies. The
+information was used to advance the plan to denigrate the Democratic presidential nominee and
+the Democratic party (discussed herein) and bolster Trump's candidacy by strategically releasing
+the confidential, proprietary information publicly online, including on WikiLeaks.
+149. Upon information and belief, Russia, the GRU, and GRU Operative #1 knowingly
+caused the transmission of a program, information, code, or command, and as a result of such
+conduct, intentionally caused damage without authorization, to a protected computer, in violation
+36

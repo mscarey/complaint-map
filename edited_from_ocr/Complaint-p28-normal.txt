@@ -1,0 +1,31 @@
+Case 1:18-cv-03501 Document 1 Filed 04/20/18 Page 28 of 66
+92. On April 22, 2016, the GRU staged for exfiltration several gigabytes of data that
+included opposition research on Donald Trump.
+93.
+On information and belief, the GRU exfiltrated DNC documents, and GRU
+Operative #1 posted some of those docurments publicly online.
+94.
+According to an analysis of metadata in other documents, documents that originally
+resided on DNC servers were published without permission on a website, found at
+www.guccifer2.wordpress.com, by GRU Operative #1
+5 Forensic analysis shows that both Cozy Bear and Fancy Bear used the stolen
+credentials of user accounts to access the DNC's computer systems.58
+96. In addition, forensic analysis showed that the hackers accessed the DNC's Voice
+over Internet Protocol VOIP") transfers, permitting them to monitor voice-based
+communications, such as phone calls and voicemail
+97.
+On information and belief, the hackers intercepted or endeavored to intercept
+emails and voice-based communications while in the DNC servers.
+H.
+Russians Offer to Assist Trump-and Trump Associates Accept the Offer
+8 Trump clinched the Republican presidential nomination on May 26, 2016. A week
+later, the scheme was launched to disseminate information that was damaging to the Democratic
+party and the DNC
+99 On June 3, 2016, Aras and Emin Agalarov made an offer of assistance from the
+Russian government to the Trump Campaign, as evidenced by the following communication:
+Good morning
+Emin [Defendant Emin Agalarov] just called and asked me to
+contact you with something very interesting.
+The Crown prosecutor of Russia met with his father Aras
+Defendant Aras Agalarov] this morning and in their meeting
+24
